@@ -68,4 +68,9 @@ ___粗斜体文本___
 > > 第一层嵌套  
 > > > 第二层嵌套  
 
-Python中的`printf()` 函数
+Python中的`printf()` 函数  
+```python
+#!/usr/bin/python3
+ 
+print("Hello, World!")
+```
