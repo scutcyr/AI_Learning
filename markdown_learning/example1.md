@@ -80,6 +80,6 @@ print("Hello, World!")
   
 这个链接用1作为网址变量 [华农][1]  
 这个链接用2作为网址变量 [华工][2]  
-然后在文档的结尾为变量赋值（网址）
-[1]: http://www.scau.edu.cn/
-[2]: https://www.scut.edu.cn/
+然后在文档的结尾为变量赋值（网址）  
+    [1]: http://www.scau.edu.cn/  
+    [2]: https://www.scut.edu.cn/  
