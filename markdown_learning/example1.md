@@ -74,3 +74,6 @@ Python中的`printf()` 函数
  
 print("Hello, World!")
 ```
+   
+陈艺荣的[个人主页](https://scutcyr.github.io/)  
+陈艺荣的个人主页：<https://scutcyr.github.io/>
