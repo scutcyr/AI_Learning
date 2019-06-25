@@ -12,4 +12,7 @@ pip3 install https://download.pytorch.org/whl/cu90/torch-1.1.0-cp36-cp36m-win_am
 
 pip3 install https://download.pytorch.org/whl/cu90/torchvision-0.3.0-cp36-cp36m-win_amd64.whl
 
+# Pytorch教程
+https://pytorch.org/tutorials/    
 
+# 下载上课资料
