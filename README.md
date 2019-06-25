@@ -18,4 +18,4 @@ https://pytorch.org/tutorials/
 # 下载上课资料
 
 [1、Torch and Numpy](https://github.com/scutcyr/AI_Learning/blob/master/learn_pytorch/1_torch_numpy.ipynb)     
-[2_regression.ipynb](https://github.com/scutcyr/AI_Learning/blob/master/learn_pytorch/2_regression.ipynb)
+[2、regression.ipynb](https://github.com/scutcyr/AI_Learning/blob/master/learn_pytorch/2_regression.ipynb)
