@@ -16,3 +16,6 @@ pip3 install https://download.pytorch.org/whl/cu90/torchvision-0.3.0-cp36-cp36m-
 https://pytorch.org/tutorials/    
 
 # 下载上课资料
+
+[1、Torch and Numpy](https://github.com/scutcyr/AI_Learning/blob/master/learn_pytorch/1_torch_numpy.ipynb)     
+[2_regression.ipynb](https://github.com/scutcyr/AI_Learning/blob/master/learn_pytorch/2_regression.ipynb)
