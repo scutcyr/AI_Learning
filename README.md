@@ -27,3 +27,9 @@ https://pytorch.org/tutorials/
 
 # 下载风格转换代码
 [点击下载代码压缩包](https://github.com/scutcyr/AI_Learning/raw/master/style_transform/style_transform.rar)
+
+```python
+cnn = models.vgg19()  # 初始化模型
+cnn.load_state_dict(torch.load('./checkpoints/vgg19.pth'))  # 下载的模型保存的位置
+cnn = cnn.features.to(device).eval()
+```
