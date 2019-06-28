@@ -1,5 +1,5 @@
 # AI_Learning
-## 华南理工大学 Phd [陈艺荣](https://scutcyr.github.io/)
+#### 华南理工大学 Phd [陈艺荣](https://scutcyr.github.io/)
 This is the Foundation Course of Artificial Intelligence, mainly about python, cv and nlp.
 扫描下列二维码进入本网页：       
 
