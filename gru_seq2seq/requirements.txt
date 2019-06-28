@@ -1,0 +1,5 @@
+torch >= 1.0.0
+pandas
+numpy
+jieba
+argparse
