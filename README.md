@@ -40,4 +40,4 @@ cnn = cnn.features.to(device).eval()
 [点击下载代码压缩包](https://github.com/scutcyr/AI_Learning/raw/master/python-login-wechat/python-login-wechat.rar)    
 
 
-<p align="center"><img width="40%" src="ai.png" /></p>
+<p align="center"><img width="40%" src="ai.jpeg" /></p>
