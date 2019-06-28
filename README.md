@@ -37,6 +37,7 @@ cnn.load_state_dict(torch.load('./checkpoints/vgg19.pth'))  # 下载的模型保
 cnn = cnn.features.to(device).eval()
 ```
 # 下载Python微信聊天代码
-[点击下载代码压缩包](https://github.com/scutcyr/AI_Learning/raw/master/python-login-wechat/python-login-wechat.rar)
+[点击下载代码压缩包](https://github.com/scutcyr/AI_Learning/raw/master/python-login-wechat/python-login-wechat.rar)    
 
 
+<p align="center"><img width="40%" src="ai.png" /></p>
