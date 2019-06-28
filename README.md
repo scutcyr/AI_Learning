@@ -1,5 +1,6 @@
 # AI_Learning
 This is the Foundation Course of Artificial Intelligence, mainly about python, cv and nlp.
+扫描下列二维码进入本网页：       
 
 <p align="center"><img width="40%" src="kejian.png" /></p>
 
@@ -37,3 +38,5 @@ cnn = cnn.features.to(device).eval()
 ```
 # 下载Python微信聊天代码
 [点击下载代码压缩包](https://github.com/scutcyr/AI_Learning/raw/master/python-login-wechat/python-login-wechat.rar)
+
+
